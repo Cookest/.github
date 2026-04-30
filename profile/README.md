@@ -1,10 +1,10 @@
 # 👋 Hey, we're Cookest
 
-Cookest is a kitchen companion app — search recipes, track meals, and explore what's in your fridge.
-
 ![Header](https://raw.githubusercontent.com/Cookest/.github/main/profile/assets/Header.png)
 
 ---
+
+Cookest is a kitchen companion app — search recipes, track meals, and explore what's in your fridge.
 
 ### What's cooking 🍳
 
