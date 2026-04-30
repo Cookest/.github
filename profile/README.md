@@ -2,8 +2,7 @@
 
 Cookest is a kitchen companion app — search recipes, track meals, and explore what's in your fridge. Built as a PAP (Prova de Aptidão Profissional) school project.
 
-<!-- Add a banner or screenshot here once available -->
-<!-- ![Cookest app screenshot](./profile/screenshot.png) -->
+![Header](https://raw.githubusercontent.com/Cookest/.github/main/profile/assets/Header.png)
 
 ---
 
@@ -15,4 +14,4 @@ Cookest is a kitchen companion app — search recipes, track meals, and explore 
 
 ---
 
-*PAP · 2025*
+_PAP · 2025_
