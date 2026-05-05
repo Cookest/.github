@@ -10,7 +10,7 @@ Cookest is a kitchen companion app — search recipes, track meals, and explore 
 
 - 📱 **[Mobile app](https://github.com/Cookest/app)** — Flutter, works on iOS & Android
 - ⚙️ **[API](https://github.com/Cookest/api)** — Rust-powered backend with JWT auth and recipe data
-- 🌍 **[Website](https://github.com/cookest/web)** — Laning page
+- 🌍 **[Website](https://github.com/cookest/web)** — Landing page
 - 📚 **[Docs](https://github.com/Cookest/docs)** — Full documentation for the project
 
 ---
